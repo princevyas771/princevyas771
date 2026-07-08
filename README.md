@@ -167,18 +167,18 @@
 
 ---
 
-## 🐍 Snake vs Minions Zone
+## 🐍 Contribution Snake Zone
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/YAlhwn67KT76E/giphy.gif" width="140" alt="Minion 1"/>
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="140" alt="Minion 2"/>
-<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="140" alt="Minion 3"/>
-<img src="https://media.giphy.com/media/fYben9HZVrFQY/giphy.gif" width="140" alt="Minion 4"/>
+<img src="https://raw.githubusercontent.com/princevyas771/princevyas771/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/princevyas771/princevyas771/output/github-contribution-grid-snake.svg" width="100%" alt="Snake chasing minions"/>
+<img src="https://media.giphy.com/media/YAlhwn67KT76E/giphy.gif" width="120" alt="Minion 1"/>
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" alt="Minion 2"/>
+<img src="https://media.giphy.com/media/fYben9HZVrFQY/giphy.gif" width="120" alt="Minion 3"/>
+<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="120" alt="Minion 4"/>
 
 </div>
 
