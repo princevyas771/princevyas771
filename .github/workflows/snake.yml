@@ -6,10 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
 
     steps:
       - uses: Platane/snk@v3
@@ -18,7 +19,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#7A5AF8&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
